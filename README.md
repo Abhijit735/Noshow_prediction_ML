@@ -6,7 +6,7 @@ A machine learning project to predict whether a patient will **miss a scheduled 
 
 This project explores an end-to-end classification workflow, starting from data gathering and exploratory data analysis through data preprocessing, feature engineering, handling class imbalance, model training, evaluation, and hyperparameter tuning.
 
-The dataset contains **110,527 appointment records with 14 features**. The target variable, `NoShow`, is imbalanced, with approximately **79.81% "No"** and **20.19% "Yes"** observations.
+The dataset contains **110,527 appointment records with 14 features**. 
 
 ## Objectives
 
