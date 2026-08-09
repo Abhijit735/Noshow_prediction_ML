@@ -165,14 +165,7 @@ Through this project, I explored:
 * Hyperparameter tuning
 * Model comparison
 
-## Future Improvements
-
-* Build a clean reusable preprocessing and training pipeline.
-* Further optimize the model for minority-class recall.
-* Perform more systematic hyperparameter optimization.
-* Add explainability using feature importance/SHAP.
-* Deploy the selected model through an API or web application.
 
 ## Note
 
-This project is implemented as a Jupyter Notebook and represents my first dedicated machine learning project, focusing on understanding the complete predictive modeling workflow.
+This project represents my first dedicated machine learning project, focusing on understanding the complete predictive modeling workflow.
