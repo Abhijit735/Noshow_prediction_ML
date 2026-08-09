@@ -134,20 +134,10 @@ After oversampling, the minority-class recall improved substantially in the expe
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Imbalanced-learn
-* XGBoost
 * Statsmodels
-* Jupyter Notebook
+* Shap values
+* Lazypredict
 
-## Project Structure
-
-```text
-Healthcare-NoShow-Prediction/
-│
-├── final_noshow_prediction.ipynb
-├── README.md
-└── requirements.txt
-```
 
 ## Key Learning Outcomes
 
@@ -167,5 +157,4 @@ Through this project, I explored:
 
 
 ## Note
-
-This project represents my first dedicated machine learning project, focusing on understanding the complete predictive modeling workflow.
+This project represents my first dedicated machine learning project(academic project-2024), focusing on understanding the complete predictive modeling workflow.
