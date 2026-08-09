@@ -55,8 +55,6 @@ The dataset was inspected using:
 * Missing-value analysis
 * Visualization
 
-The notebook confirms that the dataset contains no missing values.
-
 ### 2. Data Preprocessing
 
 The preprocessing includes:
